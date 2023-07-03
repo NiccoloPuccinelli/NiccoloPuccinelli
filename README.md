@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Bachelor's degree in Computer Science at the University of Pisa.<br>🔭 Master's degree student in Data Science at the University of Milano-Bicocca.<br>🌱Currently working on my Master Thesis.
+⚡Bachelor's degree in Computer Science at the University of Pisa.<br>🔭Master's degree student in Data Science at the University of Milano-Bicocca.<br>🌱Currently working on my Master Thesis.
 
 
 # 💻 Tech Stack:
