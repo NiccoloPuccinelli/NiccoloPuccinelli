@@ -1,8 +1,6 @@
 <h1 align="center">👋 Welcome!</h1>
 
-🌱 Bachelor degree in Computer Science at the University of Pisa. <br>🔭 Master degree in Data Science at the University of Milano-Bicocca. <br>💻 Currently PhD student in Computer Science at STAR group at USI Lugano.
-
-###
+### Tech stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
