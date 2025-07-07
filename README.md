@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome!</h1>
 
-### Tech stack
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
